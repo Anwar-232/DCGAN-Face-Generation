@@ -48,6 +48,13 @@ The adversarial training demonstrated a healthy balance between the two networks
     * *Early Epochs (1-3):* The network outputted blurry, abstract facial structures.
     * *Middle Epochs (7-10):* Key facial features (eyes, hair, skin tone) became coherent.
     * *Final Epochs (15):* The model successfully generated high-fidelity faces with consistent lighting and spatial proportions.
+    * ### Generated Faces Comparison
+
+**Samples generated after 15 epochs:**
+![Generated Faces](generated_faces.png)
+
+**Real Faces (Top) vs. Generated Faces (Bottom):**
+![Real vs Fake Comparison](real_vs_fake.png)
 
 ---
 
